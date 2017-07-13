@@ -1,2 +1,2 @@
-# Instasubjectheadings
-A small tool to compare Library of Congress Subject Headings with Instagram hash tags.
+# insta-subject-headings
+A way to compare Library of Congress Subject Headings with Instagram hash tags.
